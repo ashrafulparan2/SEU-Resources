@@ -18,9 +18,11 @@ A comprehensive programming course with practical Java implementations and asses
 
 **Contents:**
 - **Code**: Java programming examples (1.java through 14.java) and weekly exercises
+- **Week 2**: Additional weekly materials
 - **Task**: Programming assignments and tasks
 - **Attendance**: Attendance records
 - **Viva**: Viva examination materials
+- **Test**: Test materials
 - Course Outline (Course_Outline_CSE282.docx)
 
 ### CSE362 - Operating Systems
@@ -33,6 +35,9 @@ This course focuses on Operating Systems concepts with emphasis on Linux and She
 - Windows vs Linux comparison materials
 - Test materials
 
+### CSE441
+Course materials for CSE441 (folder present; contents may be added over time).
+
 ## 📁 Repository Structure
 
 ```
@@ -40,11 +45,15 @@ SEU-Resources/
 ├── CSE281/           # OOP course materials
 ├── CSE282/           # Programming course materials
 │   ├── Code/         # Java code examples
+│   │   └── Week 2/    # Week 2 code examples
 │   ├── Task/         # Assignments
 │   ├── Attendance/   # Attendance records
 │   └── Viva/         # Viva materials
-└── CSE362/           # OS course materials
-    └── Test/         # Test materials
+│   ├── Test/         # Test materials
+│   └── Week 2/        # Additional weekly materials
+├── CSE362/           # OS course materials
+│   └── Test/         # Test materials
+└── CSE441/           # CSE441 course materials
 ```
 
 ## 🎓 About
